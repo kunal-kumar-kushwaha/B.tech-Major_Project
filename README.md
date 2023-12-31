@@ -35,7 +35,7 @@ The project aims to leverage the potential of Fog Computing for efficient and ad
   - gone through , DCNSFog.java which is in org.fog.test.perfeval in iFogSim-main.
  
 
-2.[Date: 10 Nov 2023] :
+2. [Date: 10 Nov 2023] :
   - Started with the basic overview on fog Computing.
   - Began with the paper, Lyapunov-Based Partial Computation Offloading for Multiple Mobile Devices Enabled by Harvested Energy in MEC
     https://ieeexplore.ieee.org/document/9560158
